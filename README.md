@@ -1,8 +1,13 @@
 # Working Dev Environment with Yarn
 
+### Run command:
+
 ```shell
 yarn install
 ```
+
+### and
+
 rename `.example.env` to `.env` and update with your info
 
 -------------------------
