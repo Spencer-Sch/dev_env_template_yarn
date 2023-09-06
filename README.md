@@ -1,5 +1,17 @@
 # Working Dev Environment with Yarn
 
+### Run command:
+
+```shell
+yarn install
+```
+
+### and
+
+rename `.example.env` to `.env` and update with your info
+
+-------------------------
+
 This is an empty environment built to work with Yarn <br>
 All contracts, tests, artifacts, scripts have been removed.
 <br>
